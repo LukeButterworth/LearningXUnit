@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAGvd2Y6YejeQm0wPMBbdj6arNcQHIpAw37NAg9mmxBdq9UtsEp/d9io3IYevnDeoTibeQdx3uITjV4S367bqg==",
+  "success": true,
+  "projectFilePath": "/home/luke/Repos/LearningXUnit/LearningXUnit.csproj",
+  "expectedPackageFiles": [
+    "/home/luke/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
